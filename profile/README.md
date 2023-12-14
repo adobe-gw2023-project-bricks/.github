@@ -1,5 +1,9 @@
 # Project Bricks
 
+## About
+
+This project is about the effort to conduct R&D on the usage of Web Components technology in AEM Edge Delivery Service to promote Performance, Better DevX, Compliance to standards and Encapsulation of Blocks.
+
 ## Team
 
 ### Boilerplate engineering
